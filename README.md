@@ -20,17 +20,18 @@ http://opensource.org/licenses/mit-license.php
 ## 使用例
 写真はRaspberry pi Zeroを使って多桁電卓を作成したものです。
 ### Raspberry Pi電卓(Googole Calculator)外見
-![全体](./img/img00.jpg)
-![Raspberry pi](./img/img01.jpg)
+![Raspberry pi電卓(全体)](./img/img00.jpg)
+### 電卓の本体はRaspberry Pi Zeroを使用しています
+![Raspberry pi電卓(Raspberry pi Zero)](./img/img01.jpg)
 ### たし算
-![たし算](./img/img11.jpg)
+![Raspberry pi電卓(たし算)](./img/img11.jpg)
 ### ひき算
-![ひき算](./img/img12.jpg)
+![Raspberry pi電卓(ひき算)](./img/img12.jpg)
 ### かけ算
-![わり算](./img/img13.jpg)
+![Raspberry pi電卓(かけ算)](./img/img13.jpg)
 ### わり算
-![わり算](./img/img14.jpg)
+![Raspberry pi電卓(わり算)](./img/img14.jpg)
 ### モンテカルロ法による円周率の計算
-![モンテカルロ法による円周率の計算](./img/img15.jpg)
+![Raspberry pi電卓(モンテカルロ法による円周率の計算)](./img/img15.jpg)
 
 
